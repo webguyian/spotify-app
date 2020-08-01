@@ -59,4 +59,11 @@
    *    Ex. searchMusic('BQDUyKNjI...');
    * In this example it will return artists, albums, and playlists
    */
+
+  /**
+   * NEXT STEPS:
+   * - Learn how to read data from HTML form input with JS
+   * - Replace hardcoded search term with text from search form
+   * - Display results in HTML and style with CSS
+   */
 })();
