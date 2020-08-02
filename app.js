@@ -26,9 +26,9 @@
   /* YOUR CODE GOES HERE */
 
   /**
-   * Fetch returns a Promise response which you can *await* convert to JSON
-   * After response you *await* the converted to JSON you can access the data
-   * The data includes a BEARER TOKEN to access the Spotify WEB API
+   * *await* the fetch to return a Promise response
+   * Convert the response to JSON and *await* again for the data
+   * Data includes a BEARER TOKEN to access the Spotify WEB API
    *
    * You can then access the Search API and pass in a search term
    */
